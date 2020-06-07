@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xsi:type="con:RestService" wadlVersion="http://wadl.dev.java.net/2009/02" name="Flickr" type="rest" basePath="" id="fc4fab3e-d525-4ee1-a36b-ecd37b72a23c" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="fc4fab3e-d525-4ee1-a36b-ecd37b72a23cfileName">Flickr</con:setting></con:settings><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>http://api.flickr.com</con:endpoint></con:endpoints></con:interface>
